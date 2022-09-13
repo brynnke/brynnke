@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @brynnke
 -  💾 Contact, kiloranb@gmail.com
+-  📬 Junior Web Developer
